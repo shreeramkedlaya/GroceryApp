@@ -1,0 +1,7 @@
+gradle/*
+.idea/*
+.gradle/*
+*.kts
+*.properties
+gradlew*
+/app/src/main/AndroidManifest.xml
