@@ -1,7 +1,13 @@
 gradle/*
 .idea/*
-.gradle/*
 *.kts
-*.properties
 gradlew*
+.gitignore
 /app/src/main/AndroidManifest.xml
+*.iml
+.gradle
+/local.properties
+/build
+/captures
+.externalNativeBuild
+.DS_Store
